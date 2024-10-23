@@ -14,7 +14,7 @@ This repository contains a collection of custom Linux kernel modules. Each modul
 
 ## Introduction
 
-Kernel modules are pieces of code that can be dynamically loaded into the Linux kernel to add or extend functionality without requiring a kernel reboot. This repository includes modules that demonstrate various features and use cases, from basic "Hello World" examples to more complex modules that interact with kernel subsystems.
+Kernel modules are pieces of code that can be dynamically loaded into the Linux kernel to add or extend functionality without requiring a kernel reboot. This repository includes modules that demonstrate various features and use cases
 
 ## Modules
 
